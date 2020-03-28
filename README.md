@@ -5,6 +5,11 @@ Perguntas e respostas frequentes no grupo.
 Se tiver alguma sugestão de pergunta ou de resposta, fique à vontade para sugerir nas issues ou pull requests.
 Lembrando que a ideia não é mover a discussão para as issues, como num fórum, e sim ter respostas curtas e diretas para dúvidas que sempre aparecem no grupo.
 
+## Qual editor/IDE usar?
+
+Se você puder pagar pelas [IDEs da JetBrains](https://www.jetbrains.com/) (ou consegui-las de outras formas através de seus [programas comunitários](https://www.jetbrains.com/community/education/#students)), com certeza vale cada centavo.<br>
+Mas sem dúvida a opção mais popular, com mais recursos e mais usada na comunidade é o [VSCode](https://code.visualstudio.com/) da Microsoft.
+
 ## Hospedagens gratuitas
 
 | Nome | Tecnologias | Período gratuito | Domínio personalizado | Não precisa de cartão |
