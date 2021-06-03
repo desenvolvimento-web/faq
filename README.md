@@ -28,3 +28,7 @@ Se tiver correções ou adições, não deixe de contribuir com issues e PRs.
 
 Resumidamente: **sim**. Ainda é uma ferramenta muito presente no desenvolvimento web e vem cada dia mais ganhando novas funcionalidades. O caríssimo [@filipedeschamps](https://github.com/filipedeschamps) fez um vídeo excepcional sobre o assunto com dados e uma analise 100% imparcial sobre eles:<br>
 [![PHP vale a pena? (minha opinião sincera)](https://img.youtube.com/vi/H43fXodv6WY/0.jpg)](https://www.youtube.com/watch?v=H43fXodv6WY)
+
+## MEI
+
+**Não existe CNAE que enquadre nossa atividade na MEI**. Não entraremos no mérito de ética e moral, simplesmente tentar encontrar um jeitinho de burlar isso, esbarra na [Regra #9](https://github.com/desenvolvimento-web/regras/blob/master/README.md#9-%C3%A9-proibido-publicar-quaisquer-coisas-que-violem-as-leis-brasileiras-ou-internacionais-onde-o-brasil-for-signat%C3%A1rio).
